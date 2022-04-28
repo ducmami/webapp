@@ -41,6 +41,10 @@ const i18n = {
   'zh-TW': {
     'new_message': "新訊息",
     'new_chat': "新聊天",
+  },
+  'vi': {
+    'new_message': "Tin nhắn mới",
+    'new_chat': "Trò chuyện mới",
   }
 };
 self.i18nMessage = function(id) {
