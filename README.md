@@ -8,7 +8,7 @@ Overall, it's a lot like open source WhatsApp or Telegram web apps.
 
 Although the app is generally usable, keep in mind that this is work in progress. Some bugs probably exist, some features are missing. The app was tested in the latest Chrome & Firefox only. NPM package is [available](https://www.npmjs.com/package/tinode-webapp).
 
-Try possibly newer or older version live at https://web.tinode.co/.
+Try possibly newer or older version live at https://sandbox.tinode.co/.
 
 <a href="https://web.tinode.co/"><img src="web-app.svg" height=36></a>
 
@@ -33,6 +33,7 @@ The app is currently available in the following languages:
  * English
  * Chinese (simplified)
  * Chinese (traditional)
+ * French
  * German
  * Korean
  * Romanian
@@ -44,11 +45,11 @@ More translations are welcome. See [instructions](https://github.com/tinode/chat
 
 ## Not done yet
 
-* Voice or video messages, video or audio calling.
+* Video or audio calling.
 * End-to-End encryption.
 * Emoji support is weak.
 * Mentions, hashtags.
-* Previews not generated for videos, audio, links or docs.
+* Previews not generated for videos, links or docs.
 
 ## Other
 

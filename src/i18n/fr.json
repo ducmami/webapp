@@ -1,153 +1,153 @@
 {
   "action_block_contact": {
-    "translation": "Заблокировать контакт",
+    "translation": "Bloquer le Contact",
     "defaultMessage": "Block Contact",
     "description": "Flat button [Block Contact]",
     "missing": false,
     "obsolete": false
   },
   "action_cancel": {
-    "translation": "отменить",
+    "translation": "annuler",
     "defaultMessage": "cancel",
     "description": "Call to action [cancel]",
     "missing": false,
     "obsolete": false
   },
   "action_clear_messages": {
-    "translation": "Удалить сообщения",
+    "translation": "Effacer les Messages",
     "defaultMessage": "Clear Messages",
     "description": "Flat button [Clear Messages] (soft-delete messages)",
     "missing": false,
     "obsolete": false
   },
   "action_delete_messages": {
-    "translation": "Удалить сообщения",
+    "translation": "Effacer les Messages pour Tous",
     "defaultMessage": "Clear Messages for All",
     "description": "Flat button [Clear for All] (hard-delete all messages)",
     "missing": false,
     "obsolete": false
   },
   "action_leave_chat": {
-    "translation": "Уйти из чата",
+    "translation": "Quitter la Conversation",
     "defaultMessage": "Leave Conversation",
     "description": "Flat button [Leave Conversation]",
     "missing": false,
     "obsolete": false
   },
   "action_report_chat": {
-    "translation": "Сообщить о нарушении",
+    "translation": "Signaler la Conversation",
     "defaultMessage": "Report Conversation",
     "description": "Flat button [Report Group]",
     "missing": false,
     "obsolete": false
   },
   "archived_contacts": {
-    "translation": "Чаты в архиве ({count})",
+    "translation": "Contacts archivés ({count})",
     "defaultMessage": "Archived contacts ({count})",
     "description": "Label for archived chats",
     "missing": false,
     "obsolete": false
   },
   "badge_danger": {
-    "translation": "Подозрительный",
+    "translation": "Non fiable",
     "defaultMessage": "Untrustworthy",
     "description": "Suspicious or untrustworthy account or topic badge",
     "missing": false,
     "obsolete": false
   },
   "badge_owner": {
-    "translation": "влад.",
+    "translation": "propriétaire",
     "defaultMessage": "owner",
     "description": "Badge for indicating the owner",
     "missing": false,
     "obsolete": false
   },
   "badge_staff": {
-    "translation": "Администрация",
+    "translation": "Géré par le Staff",
     "defaultMessage": "Staff-managed",
     "description": "Explanation of a staff-managed account or topic badge",
     "missing": false,
     "obsolete": false
   },
   "badge_verified": {
-    "translation": "Верифицированный",
+    "translation": "Vérifié / Officiel",
     "defaultMessage": "Verified/official",
     "description": "Explanation of a verified account or topic badge",
     "missing": false,
     "obsolete": false
   },
   "badge_you": {
-    "translation": "вы",
+    "translation": "vous",
     "defaultMessage": "you",
     "description": "Badge for indicating the current user",
     "missing": false,
     "obsolete": false
   },
   "block_contact_warning": {
-    "translation": "Вы действительно заблокировать этот контакт?",
+    "translation": "Êtes-vous sûr de bloquer le contact ?",
     "defaultMessage": "Are you sure you want to block this contact?",
     "description": "Alert dialog warning when blocking a contact.",
     "missing": false,
     "obsolete": false
   },
   "blocked_contacts_link": {
-    "translation": "Заблокированные ({count})",
+    "translation": "Contacts bloqués ({count})",
     "defaultMessage": "Blocked contacts ({count})",
     "description": "Blocked contacts link",
     "missing": false,
     "obsolete": false
   },
   "button_add_another": {
-    "translation": "Добавить",
+    "translation": "Ajouter un autre",
     "defaultMessage": "Add another",
     "description": "Call to action [+ add another]",
     "missing": false,
     "obsolete": false
   },
   "button_add_members": {
-    "translation": "Добавить",
+    "translation": "Ajouter des membres",
     "defaultMessage": "Add members",
     "description": "Flat button [Add members] (to topic)",
     "missing": false,
     "obsolete": false
   },
   "button_cancel": {
-    "translation": "Отменить",
+    "translation": "Annuler",
     "defaultMessage": "Cancel",
     "description": "Button [Cancel]",
     "missing": false,
     "obsolete": false
   },
   "button_confirm": {
-    "translation": "Подтвердить",
+    "translation": "Confirmer",
     "defaultMessage": "Confirm",
     "description": "Button [Confirm]",
     "missing": false,
     "obsolete": false
   },
   "button_create": {
-    "translation": "Создать",
+    "translation": "Créer",
     "defaultMessage": "Create",
     "description": "Button [Create]",
     "missing": false,
     "obsolete": false
   },
   "button_delete_account": {
-    "translation": "Удалить аккаунт",
+    "translation": "Supprimer le compte",
     "defaultMessage": "Delete account",
     "description": "Button [Delete account]",
     "missing": false,
     "obsolete": false
   },
   "button_edit": {
-    "translation": "Редактировать",
+    "translation": "Modifier",
     "defaultMessage": "Edit",
     "description": "Call to action [Edit]",
     "missing": false,
     "obsolete": false
   },
   "button_logout": {
-    "translation": "Выйти",
+    "translation": "Déconnexion",
     "defaultMessage": "Logout",
     "description": "Button [Logout]",
     "missing": false,
@@ -161,1208 +161,1208 @@
     "obsolete": false
   },
   "button_reset": {
-    "translation": "Изменить",
+    "translation": "Remettre à Zéro",
     "defaultMessage": "Reset",
     "description": "Button [Reset]",
     "missing": false,
     "obsolete": false
   },
   "button_send_request": {
-    "translation": "Отправить",
+    "translation": "Envoyer une demande",
     "defaultMessage": "Send request",
     "description": "Button [Send request]",
     "missing": false,
     "obsolete": false
   },
   "button_sign_in": {
-    "translation": "Войти",
+    "translation": "Connexion",
     "defaultMessage": "Sign in",
     "description": "Button [Sign In]",
     "missing": false,
     "obsolete": false
   },
   "button_sign_up": {
-    "translation": "Создать аккаунт",
+    "translation": "Créer un compte",
     "defaultMessage": "Sign up",
     "description": "Create account button [Sign Up]",
     "missing": false,
     "obsolete": false
   },
   "button_subscribe": {
-    "translation": "Подписаться",
+    "translation": "S'abonner",
     "defaultMessage": "Subscribe",
     "description": "Button [Subscribe]",
     "missing": false,
     "obsolete": false
   },
   "button_update": {
-    "translation": "Применить",
+    "translation": "Mettre à jour",
     "defaultMessage": "Update",
     "description": "Button [Update]",
     "missing": false,
     "obsolete": false
   },
   "cannot_initiate_file_upload": {
-    "translation": "Ошибка загрузки файла.",
+    "translation": "Impossible de démarrer l'envoi.",
     "defaultMessage": "Cannot initiate file upload.",
     "description": "Generic error messagewhen attachment fails",
     "missing": false,
     "obsolete": false
   },
   "channel": {
-    "translation": "канал",
+    "translation": "canal",
     "defaultMessage": "channel",
     "description": "Subtitle shown for channels in MessagesView instead of last seen",
     "missing": false,
     "obsolete": false
   },
   "channel_prompt": {
-    "translation": "Создать канал",
+    "translation": "C'est un canal",
     "defaultMessage": "This is a channel",
     "description": "Checkbox label when creating a channel",
     "missing": false,
     "obsolete": false
   },
   "chat_invitation": {
-    "translation": "Вас пригласили начать новый чат. Как вы хотите поступить?",
+    "translation": "Vous êtes invité à démarrer une conversation. Que voulez vous faire ?",
     "defaultMessage": "You are invited to start a new chat. What would you like to do?",
     "description": "New chat invitation message: [Accept] [Ignore] [Block].",
     "missing": false,
     "obsolete": false
   },
   "chat_invitation_accept": {
-    "translation": "Принять",
+    "translation": "Accepter",
     "defaultMessage": "Accept",
     "description": "Action [Accept] for chat invitation.",
     "missing": false,
     "obsolete": false
   },
   "chat_invitation_block": {
-    "translation": "Заблокировать",
+    "translation": "Bloquer",
     "defaultMessage": "Block",
     "description": "Action [Block] for chat invitation.",
     "missing": false,
     "obsolete": false
   },
   "chat_invitation_ignore": {
-    "translation": "Игнорировать",
+    "translation": "Ignorer",
     "defaultMessage": "Ignore",
     "description": "Action [Ignore] for chat invitation.",
     "missing": false,
     "obsolete": false
   },
   "clear_messages_warning": {
-    "translation": "Вы действительно хотите удалить все сообщения в чате? Их будет невозможно восстановить.",
+    "translation": "Êtes-vous sûr de vouloir effacer tous les messages ? Aucun retour possible.",
     "defaultMessage": "Are you sure you want to clear all messages? It cannot be undone.",
     "description": "Alert dialog warning when deleting all messages.",
     "missing": false,
     "obsolete": false
   },
   "code_doesnot_match": {
-    "translation": "Код не совпадает",
+    "translation": "Le code ne correspond pas",
     "defaultMessage": "Code does not match",
     "description": "Error message when the credential validation code is incorrect.",
     "missing": false,
     "obsolete": false
   },
   "contacts_not_found": {
-    "translation": "Чатов нет<br />¯∖_(ツ)_/¯",
+    "translation": "Vous n'avez aucune conversation<br />¯∖_(ツ)_/¯",
     "defaultMessage": "You have no chats<br />¯∖_(ツ)_/¯",
     "description": "HTML message shown in ContactList when no contacts are found",
     "missing": false,
     "obsolete": false
   },
   "contacts_not_found_short": {
-    "translation": "Нет контактов для запроса ''{query}''",
+    "translation": "Aucun contact ne correspond à ''{query}''",
     "defaultMessage": "No contacts match ''{query}''",
     "description": "Shown in ContactsView when search returned no results",
     "missing": false,
     "obsolete": false
   },
   "credential_email_prompt": {
-    "translation": "Регистрационный емейл",
+    "translation": "Votre email d'enregistrement",
     "defaultMessage": "Your registration email",
     "description": "Placeholder for entering email",
     "missing": false,
     "obsolete": false
   },
   "delete_account": {
-    "translation": "Удалить аккаунт",
+    "translation": "Supprimer le compte",
     "defaultMessage": "Delete account",
     "description": "Title for delete account warning",
     "missing": false,
     "obsolete": false
   },
   "delete_account_warning": {
-    "translation": "Вы уверены, что ходите удалить свой аккаунт? Его невозможно будет восстановить.",
+    "translation": "Êtes-vous sûr de vouloir supprimer votre compte ? Aucun retour possible.",
     "defaultMessage": "Are you sure you want to delete your account? It cannot be undone.",
     "description": "Warning message when deleting an account",
     "missing": false,
     "obsolete": false
   },
   "delete_messages_warning": {
-    "translation": "Вы действительно хотите удалить все сообщения?",
+    "translation": "Êtes-vous sûr de vouloir supprimer tous les messages pour tous ? Aucun retour possible.",
     "defaultMessage": "Are you sure you want to delete all messages for everyone? It cannot be undone.",
     "description": "Alert dialog warning when hard-deleting all messages.",
     "missing": false,
     "obsolete": false
   },
   "deleted_content": {
-    "translation": "удалено",
+    "translation": "contenu supprimé",
     "defaultMessage": "content deleted",
     "description": "Shown when messages are deleted",
     "missing": false,
     "obsolete": false
   },
   "download_action": {
-    "translation": "скачать",
+    "translation": "télécharger",
     "defaultMessage": "download",
     "description": "Call to action [download]",
     "missing": false,
     "obsolete": false
   },
   "drafty_attachment": {
-    "translation": "Аттачмент",
+    "translation": "Pièce(s) jointe(s)",
     "defaultMessage": "Attachment",
     "description": "Comment for attachment in drafty",
     "missing": false,
     "obsolete": false
   },
   "drafty_form": {
-    "translation": "Форма:",
+    "translation": "Formulaire:",
     "defaultMessage": "Form:",
     "description": "Comment for form in drafty",
     "missing": false,
     "obsolete": false
   },
   "drafty_image": {
-    "translation": "Картинка",
+    "translation": "Image",
     "defaultMessage": "Picture",
     "description": "Comment for embedded images in drafty",
     "missing": false,
     "obsolete": false
   },
   "email_dative": {
-    "translation": "емейлу",
+    "translation": "email",
     "defaultMessage": "email",
     "description": "Dative case of 'email', i.e. 'email' in 'by email'",
     "missing": false,
     "obsolete": false
   },
   "email_prompt": {
-    "translation": "Email, напр. ivan@example.com",
+    "translation": "Email, par exemple jdoe@exemple.com",
     "defaultMessage": "Email, e.g. jdoe@example.com",
     "description": "Input placeholder for email entry",
     "missing": false,
     "obsolete": false
   },
   "enable_peers_messaging": {
-    "translation": "Разблокировать.",
+    "translation": "Activer",
     "defaultMessage": "Enable",
     "description": "Call to action to enable peer's messaging",
     "missing": false,
     "obsolete": false
   },
   "enter_confirmation_code_prompt": {
-    "translation": "Код подтверждения, полученный по {method}:",
+    "translation": "Entrez le code de confirmation envoyé par {method}:",
     "defaultMessage": "Enter confirmation code sent to you by {method}:",
     "description": "Request to enter confirmation code",
     "missing": false,
     "obsolete": false
   },
   "error_invalid_id": {
-    "translation": "Неверный ID",
+    "translation": "Identifiant invalide",
     "defaultMessage": "Invalid ID",
     "description": "Error message",
     "missing": false,
     "obsolete": false
   },
   "file_attachment_too_large": {
-    "translation": "Размер файла {size} превышает {limit} лимит.",
+    "translation": "Le fichier de taille {size} dépasse la limite de {limit}.",
     "defaultMessage": "The file size {size} exceeds the {limit} limit.",
     "description": "Error message when attachment is too large",
     "missing": false,
     "obsolete": false
   },
   "forgot_password_link": {
-    "translation": "Напомнить пароль",
+    "translation": "Mot de passe oublié ?",
     "defaultMessage": "Forgot password?",
     "description": "Link to Reset password form",
     "missing": false,
     "obsolete": false
   },
   "full_name_prompt": {
-    "translation": "Полное имя, напр. Иван Петров",
+    "translation": "Nom complet, par exemple John Doe",
     "defaultMessage": "Full name, e.g. John Doe",
     "description": "Input placeholder for person's full name",
     "missing": false,
     "obsolete": false
   },
   "granted_permissions": {
-    "translation": "Получены",
+    "translation": "Accordé",
     "defaultMessage": "Granted",
     "description": "Title for permissions",
     "missing": false,
     "obsolete": false
   },
   "group_has_no_members": {
-    "translation": "Нет участников",
+    "translation": "Aucun membre",
     "defaultMessage": "No members",
     "description": "Shown in place of group members",
     "missing": false,
     "obsolete": false
   },
   "group_user_id_prompt": {
-    "translation": "ID чата или пользователя",
+    "translation": "Identifiant d'utilisateur ou de groupe",
     "defaultMessage": "Group or User ID",
     "description": "Prompt for entering user or group ID",
     "missing": false,
     "obsolete": false
   },
   "image_caption_prompt": {
-    "translation": "Подпись к фото",
+    "translation": "Description de l'image",
     "defaultMessage": "Image caption",
     "description": "Prompt in SendMessage for attached image",
     "missing": false,
     "obsolete": false
   },
   "invalid_content": {
-    "translation": "сообщение не читается",
+    "translation": "contenu invalide",
     "defaultMessage": "invalid content",
     "description": "Shown when the message is unreadable",
     "missing": false,
     "obsolete": false
   },
   "invalid_security_token": {
-    "translation": "Токен некорректен",
+    "translation": "Token de sécurité invalide",
     "defaultMessage": "Invalid security token",
     "description": "Error message when resetting password.",
     "missing": false,
     "obsolete": false
   },
   "label_client": {
-    "translation": "Клиент:",
+    "translation": "Client :",
     "defaultMessage": "Client:",
     "description": "Label for a client version",
     "missing": false,
     "obsolete": false
   },
   "label_content_type": {
-    "translation": "Тип:",
+    "translation": "Type de contenu :",
     "defaultMessage": "Content type:",
     "description": "Label for file content type (mime)",
     "missing": false,
     "obsolete": false
   },
   "label_default_access_mode": {
-    "translation": "Доступ по умолчанию:",
+    "translation": "Mode d'accès par défaut :",
     "defaultMessage": "Default access mode:",
     "description": "Label for default access mode",
     "missing": false,
     "obsolete": false
   },
   "label_file_name": {
-    "translation": "Имя файла:",
+    "translation": "Nom du fichier :",
     "defaultMessage": "File name:",
     "description": "Label for a file name",
     "missing": false,
     "obsolete": false
   },
   "label_group_members": {
-    "translation": "Участники чата:",
+    "translation": "Membres du groupe :",
     "defaultMessage": "Group members:",
     "description": "Section title or label",
     "missing": false,
     "obsolete": false
   },
   "label_incognito_mode": {
-    "translation": "Режим инкогнито:",
+    "translation": "Mode incognito :",
     "defaultMessage": "Incognito mode:",
     "description": "Label for incognito mode toggle",
     "missing": false,
     "obsolete": false
   },
   "label_message_sound": {
-    "translation": "Звук нового сообщения:",
+    "translation": "Son du message :",
     "defaultMessage": "Message sound:",
     "description": "Label for message sounds toggle",
     "missing": false,
     "obsolete": false
   },
   "label_muting_topic": {
-    "translation": "Без уведомлений",
+    "translation": "Mué :",
     "defaultMessage": "Muted:",
     "description": "Label for Muting/unmuting the topic",
     "missing": false,
     "obsolete": false
   },
   "label_other_user": {
-    "translation": "Второй",
+    "translation": "Autre",
     "defaultMessage": "Other",
     "description": "Label for the other user when the user is unnamed",
     "missing": false,
     "obsolete": false
   },
   "label_password": {
-    "translation": "Пароль",
+    "translation": "Mot de passe",
     "defaultMessage": "Password",
     "description": "Label for password editing",
     "missing": false,
     "obsolete": false
   },
   "label_permissions": {
-    "translation": "Права доступа:",
+    "translation": "Permissions :",
     "defaultMessage": "Permissions:",
     "description": "Section title",
     "missing": false,
     "obsolete": false
   },
   "label_private": {
-    "translation": "Комментарий",
+    "translation": "Commentaire privé",
     "defaultMessage": "Private comment",
     "description": "Label for editing 'private'",
     "missing": false,
     "obsolete": false
   },
   "label_push_notifications": {
-    "translation": "Уведомления:",
+    "translation": "Notifications :",
     "defaultMessage": "Notification alerts:",
     "description": "Label for push notifications switch",
     "missing": false,
     "obsolete": false
   },
   "label_push_notifications_disabled": {
-    "translation": "Уведомления (требуют HTTPS):",
+    "translation": "Notifications (requière HTTPS):",
     "defaultMessage": "Notification alerts (requires HTTPS):",
     "description": "Label for push notifications switch",
     "missing": false,
     "obsolete": false
   },
   "label_reset_password": {
-    "translation": "Отправить емейл для смены пароля:",
+    "translation": "Envoyer un mail de remise à zéro de mot de passe :",
     "defaultMessage": "Send a password reset email:",
     "description": "Label for password reset field",
     "missing": false,
     "obsolete": false
   },
   "label_sdk": {
-    "translation": "SDK:",
+    "translation": "SDK :",
     "defaultMessage": "SDK:",
     "missing": false,
     "obsolete": false
   },
   "label_server": {
-    "translation": "Сервер:",
+    "translation": "Serveur :",
     "defaultMessage": "Server:",
     "description": "Label for a server version",
     "missing": false,
     "obsolete": false
   },
   "label_server_address": {
-    "translation": "Адрес сервера:",
+    "translation": "Adresse du serveur :",
     "defaultMessage": "Server address:",
     "missing": false,
     "obsolete": false
   },
   "label_server_to_use": {
-    "translation": "Использовать сервер:",
+    "translation": "Serveur à utiliser :",
     "defaultMessage": "Server to use:",
     "description": "Label for server selector in SettingsView",
     "missing": false,
     "obsolete": false
   },
   "label_size": {
-    "translation": "Размер:",
+    "translation": "Taille :",
     "defaultMessage": "Size:",
     "description": "Label for file size",
     "missing": false,
     "obsolete": false
   },
   "label_topic_name": {
-    "translation": "Название",
+    "translation": "Nom",
     "defaultMessage": "Name",
     "description": "Label for editing topic name",
     "missing": false,
     "obsolete": false
   },
   "label_user_contacts": {
-    "translation": "Конакты:",
+    "translation": "Contacts :",
     "defaultMessage": "Contacts:",
     "description": "Label for user contacts",
     "missing": false,
     "obsolete": false
   },
   "label_user_id": {
-    "translation": "ID:",
+    "translation": "ID :",
     "defaultMessage": "ID:",
     "description": "Label for user address (ID)",
     "missing": false,
     "obsolete": false
   },
   "label_wire_transport": {
-    "translation": "Соединение:",
+    "translation": "Transport par cable :",
     "defaultMessage": "Wire transport:",
     "description": "Label for wire transport selection in SettingsView",
     "missing": false,
     "obsolete": false
   },
   "label_you": {
-    "translation": "Вы:",
+    "translation": "Vous :",
     "defaultMessage": "You:",
     "description": "Label for the current user",
     "missing": false,
     "obsolete": false
   },
   "label_your_name": {
-    "translation": "Ваше имя",
+    "translation": "Votre nom",
     "defaultMessage": "Your name",
     "description": "Label for full name editing",
     "missing": false,
     "obsolete": false
   },
   "label_your_permissions": {
-    "translation": "Ваши права доступа:",
+    "translation": "Vos permissions :",
     "defaultMessage": "Your permissions:",
     "description": "Label for current user permissions",
     "missing": false,
     "obsolete": false
   },
   "last_seen_timestamp": {
-    "translation": "Был активен",
+    "translation": "Vu pour la dernière fois",
     "defaultMessage": "Last seen",
     "description": "Label for the timestamp of when the user or topic was last online",
     "missing": false,
     "obsolete": false
   },
   "leave_chat_warning": {
-    "translation": "Вы действительно хотите покинуть этот чат?",
+    "translation": "Êtes-vous sûr de vouloir quitter cette conversation ?",
     "defaultMessage": "Are you sure you want to leave this conversation?",
     "description": "Alert dialog warning when unsubscribing from a chat.",
     "missing": false,
     "obsolete": false
   },
   "link_contact_us": {
-    "translation": "Связаться с нами",
+    "translation": "Contactez Nous",
     "defaultMessage": "Contact Us",
     "description": "Ancor text for contacting us by email",
     "missing": false,
     "obsolete": false
   },
   "link_privacy_policy": {
-    "translation": "Политика конфиденциальности",
+    "translation": "Politique de confidentialité",
     "defaultMessage": "Privacy Policy",
     "description": "Ancor text for privacy policy link",
     "missing": false,
     "obsolete": false
   },
   "link_terms_of_service": {
-    "translation": "Условия сервиса",
+    "translation": "Conditions d'utilisation",
     "defaultMessage": "Terms of Service",
     "description": "Ancor text for terms of service link",
     "missing": false,
     "obsolete": false
   },
   "login_prompt": {
-    "translation": "Логин",
+    "translation": "Connexion",
     "defaultMessage": "Login",
     "description": "Placeholer for username/login",
     "missing": false,
     "obsolete": false
   },
   "menu_item_archive_topic": {
-    "translation": "В архив",
+    "translation": "Archiver",
     "defaultMessage": "Archive",
     "description": "Move topic from the list of active chats to archive",
     "missing": false,
     "obsolete": false
   },
   "menu_item_block": {
-    "translation": "Заблокировать",
+    "translation": "Bloquer",
     "defaultMessage": "Block",
     "description": "Block topic or user",
     "missing": false,
     "obsolete": false
   },
   "menu_item_clear_messages": {
-    "translation": "Удалить сообщения",
+    "translation": "Effacer les messages",
     "defaultMessage": "Clear messages",
     "description": "Delete all messages",
     "missing": false,
     "obsolete": false
   },
   "menu_item_clear_messages_for_all": {
-    "translation": "Удалить для всех",
+    "translation": "Effacer pour Tous",
     "defaultMessage": "Clear for All",
     "description": "Delete all message(s) for all members",
     "missing": false,
     "obsolete": false
   },
   "menu_item_delete": {
-    "translation": "Удалить",
+    "translation": "Supprimer",
     "defaultMessage": "Delete",
     "description": "Delete selected messages",
     "missing": false,
     "obsolete": false
   },
   "menu_item_delete_for_all": {
-    "translation": "Удалить для всех",
+    "translation": "Supprimer pour Tous",
     "defaultMessage": "Delete for All",
     "description": "Delete selected message(s) for all members",
     "missing": false,
     "obsolete": false
   },
   "menu_item_delete_topic": {
-    "translation": "Удалить чат",
+    "translation": "Supprimer",
     "defaultMessage": "Delete",
     "description": "Delete entire topic",
     "missing": false,
     "obsolete": false
   },
   "menu_item_edit_permissions": {
-    "translation": "Права доступа",
+    "translation": "Modifier les permissions",
     "defaultMessage": "Edit permissions",
     "description": "Menu item [Edit permissions]",
     "missing": false,
     "obsolete": false
   },
   "menu_item_info": {
-    "translation": "Информация",
+    "translation": "Informations",
     "defaultMessage": "Info",
     "description": "Show extended topic information",
     "missing": false,
     "obsolete": false
   },
   "menu_item_member_delete": {
-    "translation": "Отписать",
+    "translation": "Supprimer",
     "defaultMessage": "Remove",
     "description": "Remove user from topic",
     "missing": false,
     "obsolete": false
   },
   "menu_item_mute": {
-    "translation": "Не уведомлять",
+    "translation": "Rendre muer",
     "defaultMessage": "Mute",
     "description": "Turn off notifications",
     "missing": false,
     "obsolete": false
   },
+  "menu_item_reply": {
+    "translation": "Répondre",
+    "defaultMessage": "Reply",
+    "description": "Reply to message",
+    "missing": false,
+    "obsolete": false
+  },
   "menu_item_restore_topic": {
-    "translation": "Разархивировать",
+    "translation": "Restorer",
     "defaultMessage": "Restore",
     "description": "Restore topic from archive",
     "missing": false,
     "obsolete": false
   },
   "menu_item_send_retry": {
-    "translation": "Отправить заново",
+    "translation": "Réessayer",
     "defaultMessage": "Retry",
     "description": "Retry sending message",
     "missing": false,
     "obsolete": false
   },
   "menu_item_unblock": {
-    "translation": "Разблокировать",
+    "translation": "Débloquer",
     "defaultMessage": "Unblock",
     "description": "Unblock topic or user",
     "missing": false,
     "obsolete": false
   },
   "menu_item_unmute": {
-    "translation": "Уведомлять",
+    "translation": "Recevoir à nouveau",
     "defaultMessage": "Unmute",
     "description": "Turn notifications on",
     "missing": false,
     "obsolete": false
   },
   "message_sending": {
-    "translation": "в пути...",
+    "translation": "envoi en cours...",
     "defaultMessage": "sending...",
     "description": "Message being sent, in place of time stamp",
     "missing": false,
     "obsolete": false
   },
   "message_sending_failed": {
-    "translation": "ошибка",
+    "translation": "échoué",
     "defaultMessage": "failed",
     "description": "Failed to send message, in place of time stamp",
     "missing": false,
     "obsolete": false
   },
   "messages_not_readable": {
-    "translation": "нет доступа к сообщениям",
+    "translation": "aucun accès aux messages",
     "defaultMessage": "no access to messages",
     "description": "Message shown in topic without the read access",
     "missing": false,
     "obsolete": false
   },
   "messaging_disabled_prompt": {
-    "translation": "Отправка недоступна",
+    "translation": "Discussion désactivée",
     "defaultMessage": "Messaging disabled",
     "description": "Prompt in SendMessage in read-only topic",
     "missing": false,
     "obsolete": false
   },
   "more_online_members": {
-    "translation": "+еще {overflow}",
+    "translation": "+{overflow} de plus",
     "defaultMessage": "+{overflow} more",
     "description": "Shown in MessagesView title bar when the number of online subscribers exceeds MAX_ONLINE_IN_TOPIC",
     "missing": false,
     "obsolete": false
   },
   "new_message_prompt": {
-    "translation": "Новое сообщение",
+    "translation": "Nouveau message",
     "defaultMessage": "New message",
     "description": "Prompt in send message field",
     "missing": false,
     "obsolete": false
   },
   "new_password_placeholder": {
-    "translation": "Введите новый пароль",
+    "translation": "Entrez un nouveau mot de passe",
     "defaultMessage": "Enter new password",
     "description": "Placeholder for entering new password",
     "missing": false,
     "obsolete": false
   },
   "no_connection": {
-    "translation": "Нет связи",
+    "translation": "Aucune connexion",
     "defaultMessage": "No connection",
     "description": "Warning that the user is offline.",
     "missing": false,
     "obsolete": false
   },
   "no_contacts": {
-    "translation": "Ничего нет :-(",
+    "translation": "Vous n'avez pas de contacts :-(",
     "defaultMessage": "You have no contacts :-(",
     "description": "Shown in ContactsView when the user has no contacts",
     "missing": false,
     "obsolete": false
   },
   "numeric_confirmation_code_prompt": {
-    "translation": "Только цифры",
+    "translation": "Nombres seulement",
     "defaultMessage": "Numbers only",
     "description": "Prompt for numeric conformation code",
     "missing": false,
     "obsolete": false
   },
   "online_now": {
-    "translation": "онлайн",
+    "translation": "en ligne",
     "defaultMessage": "online now",
     "description": "Indicator that the user or topic is currently online",
     "missing": false,
     "obsolete": false
   },
   "password_prompt": {
-    "translation": "Пароль",
+    "translation": "Mot de passe",
     "defaultMessage": "Password",
     "description": "Placeholder/prompt for entering password",
     "missing": false,
     "obsolete": false
   },
   "password_unchanged_prompt": {
-    "translation": "Не изменен",
+    "translation": "Non changé",
     "defaultMessage": "Unchanged",
     "description": "Message in editor while password is unchanged",
     "missing": false,
     "obsolete": false
   },
   "peers_messaging_disabled": {
-    "translation": "Чат заблокирован у корреспондента.",
+    "translation": "La messagerie point à point est désactivée.",
     "defaultMessage": "Peer's messaging is disabled.",
     "description": "Shown when the p2p peer's messaging is disabled",
     "missing": false,
     "obsolete": false
   },
   "permission_admin": {
-    "translation": "Подтверждать ({val})",
+    "translation": "Approver ({val})",
     "defaultMessage": "Approve ({val})",
     "description": "Name of A permission",
     "missing": false,
     "obsolete": false
   },
   "permission_delete": {
-    "translation": "Удалять ({val})",
+    "translation": "Supprimer ({val})",
     "defaultMessage": "Delete ({val})",
     "description": "Name of D permission",
     "missing": false,
     "obsolete": false
   },
   "permission_join": {
-    "translation": "Подписываться ({val})",
+    "translation": "Rejoindre ({val})",
     "defaultMessage": "Join ({val})",
     "description": "Name of J permission",
     "missing": false,
     "obsolete": false
   },
   "permission_owner": {
-    "translation": "Владелец ({val})",
+    "translation": "Propriétaire ({val})",
     "defaultMessage": "Owner ({val})",
     "description": "Name of O permission",
     "missing": false,
     "obsolete": false
   },
   "permission_pres": {
-    "translation": "Уведомлять ({val})",
+    "translation": "Recevoir une notification ({val})",
     "defaultMessage": "Get notified ({val})",
     "description": "Name of P permission",
     "missing": false,
     "obsolete": false
   },
   "permission_read": {
-    "translation": "Читать ({val})",
+    "translation": "Lire ({val})",
     "defaultMessage": "Read ({val})",
     "description": "Name of R permission",
     "missing": false,
     "obsolete": false
   },
   "permission_share": {
-    "translation": "Приглашать ({val})",
+    "translation": "Partager ({val})",
     "defaultMessage": "Share ({val})",
     "description": "Name of S permission",
     "missing": false,
     "obsolete": false
   },
   "permission_write": {
-    "translation": "Писать ({val})",
+    "translation": "Ecrire ({val})",
     "defaultMessage": "Write ({val})",
     "description": "Name of W permission",
     "missing": false,
     "obsolete": false
   },
   "phone_dative": {
-    "translation": "телефону",
+    "translation": "téléphone",
     "defaultMessage": "phone",
     "description": "Dative case of 'phone', i.e. 'phone' in 'by phone'",
     "missing": false,
     "obsolete": false
   },
   "private_editing_placeholder": {
-    "translation": "Виден только вам",
+    "translation": "Visible par vous seulement",
     "defaultMessage": "Visible to you only",
     "description": "Placeholder for editing 'private'",
     "missing": false,
     "obsolete": false
   },
   "push_init_failed": {
-    "translation": "Ошибка инициализации пуш уведомлений",
+    "translation": "Impossible d'initialiser les notifications push",
     "defaultMessage": "Failed to initialize push notifications",
     "description": "Error message when push notifications have failed to initialize.",
     "missing": false,
     "obsolete": false
   },
   "reconnect_countdown": {
-    "translation": "Нет связи. Подключение через {seconds}…",
+    "translation": "Déconnecté. Reconnexion dans {seconds}…",
     "defaultMessage": "Disconnected. Reconnecting in {seconds}…",
     "description": "Message shown when an app update is available.",
     "missing": false,
     "obsolete": false
   },
   "reconnect_now": {
-    "translation": "Подключить сейчас.",
+    "translation": "Essayer maintenant",
     "defaultMessage": "Try now",
     "description": "Prompt for reconnecting now",
     "missing": false,
     "obsolete": false
   },
   "reload_update": {
-    "translation": "Обновить",
+    "translation": "Recharger",
     "defaultMessage": "Reload",
     "description": "Call to action to reload application when update is available.",
     "missing": false,
     "obsolete": false
   },
   "report_chat_warning": {
-    "translation": "Вы действительно хотите сообщить о нарушении и заблокировать этот чат?",
+    "translation": "Êtes-vous sûr de vouloir bloquer et signaler cette conversation ?",
     "defaultMessage": "Are you sure you want to block and report this conversation?",
     "description": "Alert dialog warning when reporting a conversation for abuse",
     "missing": false,
     "obsolete": false
   },
   "requested_permissions": {
-    "translation": "Требуются",
+    "translation": "Demandé",
     "defaultMessage": "Requested",
     "description": "Title for permissions",
     "missing": false,
     "obsolete": false
   },
   "save_attachment": {
-    "translation": "сохранить",
+    "translation": "sauvegarder",
     "defaultMessage": "save",
     "description": "Call to save an attachment",
     "missing": false,
     "obsolete": false
   },
   "search_for_contacts": {
-    "translation": "Поиск контактов",
+    "translation": "Utilisez la recherche pour trouver des contacts",
     "defaultMessage": "Use search to find contacts",
     "description": "Text shown in contacts view when user entered no search query.",
     "missing": false,
     "obsolete": false
   },
   "search_no_results": {
-    "translation": "Ничего не найдено",
+    "translation": "La recherche n'a donné aucun résultat",
     "defaultMessage": "Search returned no results",
     "description": "Text shown in contacts view when query returned no results.",
     "missing": false,
     "obsolete": false
   },
   "search_placeholder": {
-    "translation": "Список, напр. email:alice@example.com, tel:+17025550003...",
+    "translation": "Liste comme email:alice@exemple.com, tel:17025550003...",
     "defaultMessage": "List like email:alice@example.com, tel:17025550003...",
     "description": "Placeholder in contacts search field",
     "missing": false,
     "obsolete": false
   },
   "sidepanel_title_acc_notifications": {
-    "translation": "Уведомления",
+    "translation": "Notifications",
     "defaultMessage": "Notifications",
     "description": "Sidepanel title for AccNotificationsView.",
     "missing": false,
     "obsolete": false
   },
   "sidepanel_title_acc_support": {
-    "translation": "Поддержка",
+    "translation": "Support",
     "defaultMessage": "Support",
     "description": "Sidepanel title for AccSupportView.",
     "missing": false,
     "obsolete": false
   },
   "sidepanel_title_account_settings": {
-    "translation": "Настройки аккаунта",
+    "translation": "Paramètres du compte",
     "defaultMessage": "Account Settings",
     "description": "Sidepanel title for AccountSettingsView.",
     "missing": false,
     "obsolete": false
   },
   "sidepanel_title_archive": {
-    "translation": "Архив чатов",
+    "translation": "Conversations Archivées",
     "defaultMessage": "Archived Chats",
     "description": "Sidepanel title for ContactsView-Archive.",
     "missing": false,
     "obsolete": false
   },
   "sidepanel_title_blocked": {
-    "translation": "Заблокированные чаты",
+    "translation": "Conversations Bloquées",
     "defaultMessage": "Blocked Chats",
     "description": "Sidepanel title for ContactsView-Blocked.",
     "missing": false,
     "obsolete": false
   },
   "sidepanel_title_cred": {
-    "translation": "Подтвердить",
+    "translation": "Confirmer les identifiants",
     "defaultMessage": "Confirm Credentials",
     "description": "Sidepanel title for ValidationView.",
     "missing": false,
     "obsolete": false
   },
   "sidepanel_title_login": {
-    "translation": "Авторизация",
+    "translation": "Se Connecter",
     "defaultMessage": "Sign In",
     "description": "Sidepanel title for LoginView.",
     "missing": false,
     "obsolete": false
   },
   "sidepanel_title_newtpk": {
-    "translation": "Новый чат",
+    "translation": "Démarrer une nouvelle Conversation",
     "defaultMessage": "Start New Chat",
     "description": "Sidepanel title for NewTopicView.",
     "missing": false,
     "obsolete": false
   },
   "sidepanel_title_register": {
-    "translation": "Зарегистрироваться",
+    "translation": "Créer un compte",
     "defaultMessage": "Create Account",
     "description": "Sidepanel title for CreateAccountView.",
     "missing": false,
     "obsolete": false
   },
   "sidepanel_title_reset": {
-    "translation": "Сменить пароль",
+    "translation": "Remettre à Zéro le Mot de Passe",
     "defaultMessage": "Reset Password",
     "description": "Sidepanel title for PasswordResetView.",
     "missing": false,
     "obsolete": false
   },
   "sidepanel_title_settings": {
-    "translation": "Настройки",
+    "translation": "Paramètres",
     "defaultMessage": "Settings",
     "description": "Sidepanel title for SettingsView.",
     "missing": false,
     "obsolete": false
   },
   "stay_logged_in": {
-    "translation": "Запомнить",
+    "translation": "Rester connecté",
     "defaultMessage": "Stay logged in",
     "description": "Label for a checkbox",
     "missing": false,
     "obsolete": false
   },
   "tabtitle_find_user": {
-    "translation": "найти",
+    "translation": "trouver",
     "defaultMessage": "find",
     "description": "Tab title Find",
     "missing": false,
     "obsolete": false
   },
   "tabtitle_group_by_id": {
-    "translation": "по id",
+    "translation": "par identifiant",
     "defaultMessage": "by id",
     "description": "Tab title Find topic by ID",
     "missing": false,
     "obsolete": false
   },
   "tabtitle_new_group": {
-    "translation": "создать",
+    "translation": "nouveau groupe",
     "defaultMessage": "new group",
     "description": "Tab title New Group",
     "missing": false,
     "obsolete": false
   },
   "tags_editor_no_tags": {
-    "translation": "Добавьте теги",
+    "translation": "Ajouter des étiquettes",
     "defaultMessage": "Add some tags",
     "description": "Tag editor prompt when no tags are found.",
     "missing": false,
     "obsolete": false
   },
   "tags_not_found": {
-    "translation": "Тегов нет. Добавьте",
+    "translation": "Aucune étiquette définie. Ajoutez en.",
     "defaultMessage": "No tags defined. Add some.",
     "description": "",
     "missing": false,
     "obsolete": false
   },
   "title_all_contacts": {
-    "translation": "Все контакты",
+    "translation": "Tous les Contacts",
     "defaultMessage": "All Contacts",
     "description": "Section title [All Contacts]",
     "missing": false,
     "obsolete": false
   },
   "title_group_members": {
-    "translation": "Участники",
+    "translation": "Membres du Groupe",
     "defaultMessage": "Group Members",
     "description": "Section title",
     "missing": false,
     "obsolete": false
   },
   "title_manage_tags": {
-    "translation": "Редактировать",
+    "translation": "Gérer",
     "defaultMessage": "Manage",
     "description": "Section title for the list of tags",
     "missing": false,
     "obsolete": false
   },
   "title_not_found": {
-    "translation": "Не найден",
+    "translation": "Pas trouvé",
     "defaultMessage": "Not found",
     "description": "Title shown when topic is not found",
     "missing": false,
     "obsolete": false
   },
   "title_permissions": {
-    "translation": "Права доступа",
+    "translation": "Permissions",
     "defaultMessage": "Permissions",
     "description": "Section title",
     "missing": false,
     "obsolete": false
   },
   "title_tag_manager": {
-    "translation": "Теги для поиска",
+    "translation": "Etiquettes (recherche & découverte)",
     "defaultMessage": "Tags (search & discovery)",
     "description": "Section title for TagManager",
     "missing": false,
     "obsolete": false
   },
   "topic_block_warning": {
-    "translation": "Вы действительно хотите заблокировать этот чат?",
+    "translation": "Êtes-vous sûr de vouloir bloquer cette conversation ?",
     "defaultMessage": "Are you sure you want to block this conversation?",
     "description": "Alert warning when blocking a topic.",
     "missing": false,
     "obsolete": false
   },
   "topic_delete_warning": {
-    "translation": "Вы действительно хотите удалить этот чат?",
+    "translation": "Êtes-vous sûr de vouloir supprimer cette conversation ?",
     "defaultMessage": "Are you sure you want to delete this conversation? It cannot be undone.",
     "description": "Alert warning when deleting entire topic",
     "missing": false,
     "obsolete": false
   },
   "topic_name_editing_placeholder": {
-    "translation": "Название чата",
+    "translation": "Nom libre du groupe",
     "defaultMessage": "Freeform name of the group",
     "description": "Prompt for entering topic name",
     "missing": false,
     "obsolete": false
   },
   "unnamed_topic": {
-    "translation": "Без названия",
+    "translation": "Non nommé",
     "defaultMessage": "Unnamed",
     "description": "Title shown when the topic has no name",
     "missing": false,
     "obsolete": false
   },
   "update_available": {
-    "translation": "Есть новая версия приложения.",
+    "translation": "Mise à jour disponible.",
     "defaultMessage": "Update available.",
     "description": "Message shown when an app update is available.",
     "missing": false,
     "obsolete": false
   },
   "upload_finishing": {
-    "translation": "завершение...",
+    "translation": "fin...",
     "defaultMessage": "finishing...",
     "description": "Notification that upload is finishing",
     "missing": false,
     "obsolete": false
   },
   "user_not_found": {
-    "translation": "Не найден",
+    "translation": "Pas trouvé",
     "defaultMessage": "Not found",
     "description": "In place of a user's full name when the user is not found.",
     "missing": false,
     "obsolete": false
   },
   "validate_credential_action": {
-    "translation": "подтвердить",
+    "translation": "confirmer",
     "defaultMessage": "confirm",
     "description": "Validate credentail call to action",
     "missing": false,
     "obsolete": false
   },
   "description_editing_placeholder": {
-    "translation": "Описание (не обязательно)",
+    "translation": "Description facultative",
     "defaultMessage": "Description (optional)",
     "description": "Placeholder for editing topic description",
     "missing": false,
     "obsolete": false
   },
   "label_description": {
-    "translation": "Описание",
+    "translation": "Description",
     "defaultMessage": "Description",
     "description": "Label for editing topic description",
     "missing": false,
     "obsolete": false
   },
   "button_security": {
-    "translation": "Безопасность",
+    "translation": "Sécurité",
     "defaultMessage": "Security",
     "description": "Navigaton button for security panel.",
     "missing": false,
     "obsolete": false
   },
   "panel_title_crop": {
-    "translation": "Обрезать картинку",
+    "translation": "Déplacez pour ajuster",
     "defaultMessage": "Drag to Adjust",
     "description": "Title for AvatarCropView.",
     "missing": false,
     "obsolete": false
   },
   "panel_title_general": {
-    "translation": "Общие настройки",
+    "translation": "Général",
     "defaultMessage": "General",
     "description": "Title for TopicCommon.",
     "missing": false,
     "obsolete": false
   },
   "panel_title_members": {
-    "translation": "Участники",
+    "translation": "Membres",
     "defaultMessage": "Members",
     "description": "Title for managing group members view.",
     "missing": false,
     "obsolete": false
   },
   "panel_title_security": {
-    "translation": "Безопасность",
+    "translation": "Sécurité",
     "defaultMessage": "Security",
     "description": "Title for TopicSecirity and AccSecurity.",
     "missing": false,
     "obsolete": false
   },
   "panel_title_info": {
-    "translation": "Подробности",
+    "translation": "Informations",
     "defaultMessage": "Info",
     "description": "Title for InfoView",
     "missing": false,
     "obsolete": false
   },
   "permissions_anonymous": {
-    "translation": "Анонимный",
+    "translation": "Anonyme",
     "defaultMessage": "Anonymous",
     "description": "Title for editing default anonymous permissions",
     "missing": false,
     "obsolete": false
   },
   "permissions_authenticated": {
-    "translation": "Авторизованный",
+    "translation": "Authentifié",
     "defaultMessage": "Authenticated",
     "description": "Title for editing default authenticated permissions",
     "missing": false,
     "obsolete": false
   },
   "topic_delete": {
-    "translation": "Удалить чат",
+    "translation": "Supprimer la Conversation",
     "defaultMessage": "Delete Conversation",
     "description": "Alert title when deleting the topic.",
     "missing": false,
     "obsolete": false
   },
   "permissions_user": {
-    "translation": "Права доступа",
+    "translation": "Permissions d'Utilisateur",
     "defaultMessage": "User's Permissions",
     "description": "Title for editing user's permissions",
     "missing": false,
     "obsolete": false
   },
   "password_reset_email_sent": {
-    "translation": "Сообщение было отправлено на адрес {email}. Следуйте инструкциям в сообщении, чтобы изменить пароль.",
+    "translation": "Un email a été envoyé à {email}. Suivez les instructions du mail pour remettre à zéro votre mot de passe.",
     "defaultMessage": "An email has been sent to {email}. Follow the directions in the email to reset your password.",
     "description": "Notification that the email with password reset instructions has been sent",
     "missing": false,
     "obsolete": false
   },
   "label_unarchive_topic": {
-    "translation": "Архивирован:",
+    "translation": "Archivé:",
     "defaultMessage": "Archived:",
     "description": "Label for unarchiving the topic",
     "missing": false,
     "obsolete": false
   },
-  "menu_item_reply": {
-    "translation": "Ответить",
-    "defaultMessage": "Reply",
-    "description": "Reply to message",
-    "missing": false,
-    "obsolete": false
-  },
   "menu_item_forward": {
-    "translation": "Переслать",
+    "translation": "Transférer",
     "defaultMessage": "Forward",
     "description": "Forward message",
     "missing": false,
     "obsolete": false
   },
   "forward_to": {
-    "translation": "Переслать",
+    "translation": "Transférer à",
     "defaultMessage": "Forward to",
     "missing": false,
     "obsolete": false
   },
   "forward_to_search_placeholder": {
-    "translation": "Поиск контактов",
+    "translation": "Rechercher des contacts",
     "defaultMessage": "Search contacts",
     "description": "Contact search prompt when forwarding a message.",
     "missing": false,
     "obsolete": false
   },
   "label_new_password": {
-    "translation": "Новый пароль",
+    "translation": "Nouveau mot de passe",
     "defaultMessage": "New password",
     "description": "Label for entering a new password",
     "missing": false,
     "obsolete": false
   },
   "drafty_unknown": {
-    "translation": "Не поддерживается",
+    "translation": "Non supporté",
     "defaultMessage": "Unsupported",
     "description": "Unsupported entity in drafty",
     "missing": false,
